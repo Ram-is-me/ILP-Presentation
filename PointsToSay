@@ -1,0 +1,48 @@
+Points for Presentation:
+
+Introduction:
+
+We are providing ideas on how we can design a companion app that can help rural English teachers improve their English in a way that is engaging.
+
+We recongnize the fact that they are unfamiliar with technology and try to come up with a simple and intuitive app design that is easy to use and aims at improving their proficiency.
+
+We would like to clarify that we are working on ideas from a technological design standpoint. We believe that every idea we present must be practical, effective and feasible. It must have scope for implementation as well as scalability. We cannot propose an idea which sounds great in theory but simply isn’t feasible.
+
+This companion app aims to solve the following issues faced by the teachers:
+1. The ability to pronounce words, understand phonetics, stress and to “listen” and “speak”
+2.Expand vocabulary with a good understanding of grammar rules and language
+3.Ability to have confidence in the English spoken through a verbal interaction system which is able to correct grammar. 
+4.Ability to consistenly engage teachers through various systems such a points system, one word a day etc.
+
+General Design of the App:
+<Image of Home Screen>
+1. Customized Search Bar       -     Search for concepts or words in a multi-language dictionary indexed by both English as well as vernacular words. It can accept voice input for languages such as Tamil, Kannada.
+It can also search through a custom made quick reference guide made for a particular vernacular language. 
+
+The aim of this guide is to provide simple and easy to understand explanation of language concepts in both English and the vernacular language. However, we wish to make sure that every example which is presented must be in th English language.
+ 
+One of the key goals is to create a reference guide system wherein the teachers are not dependent on the vernacular translations and try to understand English as it is. This would directly depend upon the content creation team to come up with quality content.
+
+2. Word of the day – to keep teachers engaged for at least 2 minutes a day, by providing a new word for them to learn everyday. It can be easily implemented and serves as an easy way to stay in touch with the app. 
+
+
+Exercises Page: 
+Grammar: We can implement simple grammar exercises which they can practice. We can pull different questions from a question bank each time they attempt an exercise on a particular module such as “prepositions”. The questions can be in a fill in the blanks/MCQ format.
+
+Vocabulary: Here they shall have a Whatsapp like interface wherein they can play a vocabulary game. It is in the similar spirit of Google Word Coach, which greatly improves vocabulary.
+<Insert DEMO of Google Word Coach>
+ 
+Comprehension: This shall serve to teach them about prose and poetry. We shall choose a paragraph or a stanza from our database on which questions have been prepared which tests comprehension. We believe that vernacular explanations of these paragraphs can be provided, after they answer the given questions.
+
+
+Speaking Skills: We will use speech to text conversion to record all the sentences they speak. Then we shall use a library (known as textgears, for the demo), which analyses a given sentence and then figures out grammatical mistakes within the sentence. It then awards points based on the complexity of the sentence (depending upon parameters such as vocabulary, structure etc.)
+This can be implemented even with Image processing. Suppose the camera can scan some written text, this text can be sent through textgears which can then analyse the sentence as expected. We can even implement some simple writing exercises.
+
+We can then use the points awarded (which can be implemented on all the exercises).
+
+Key feature: Long Press. When any word in the content is long pressed, it creates a pop-up which will explain that word and its meaning. This can even redirect to the dictionary wherein both English and vernacular explanations are available.
+
+Incentives:
+Now we can see that we can tie up this points system to their profile. The points system can be a tremendous motivator. We can see this when we see so many people who have smartphones in rural areas playing games such as candy crush etc.
+The accumulation of points can also act as a source of accomplishment for teachers involved with the app.
+There can be other motivating systems such as awards but that can be decided by ILP’s wishes.
